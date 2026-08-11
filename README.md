@@ -39,9 +39,7 @@
 
 ### 🏆 GitHub Trophies
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakhadepurvesh&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=bakhadepurvesh\&theme=algolia\&margin-w=10\&margin-h=10\&no-frame=true\&column=6)
 ---
 
 ### 📈 Contribution Graph
