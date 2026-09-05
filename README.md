@@ -42,9 +42,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=bakhadepurvesh\&theme=algolia\&margin-w=10\&margin-h=10\&no-frame=true\&column=6)
 ---
 
-🏆 GitHub Trophies
+📈 Contribution Graph
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bakhadepurvesh&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6" alt="GitHub Trophies" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bakhadepurvesh&theme=tokyo-night&hide_border=true&area=true&height=250" alt="Purvesh's GitHub Activity Graph" /> </p>
 
 ### 🌟 Profiles
 
